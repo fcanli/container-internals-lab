@@ -24,7 +24,7 @@ spec:
   source:
     contextDir: lab4-step3
     git:
-      uri: https://github.com/fatherlinux/container-internals-lab
+      uri: https://github.com/fcanli/container-internals-lab
     type: Git
   strategy:
     dockerStrategy:
